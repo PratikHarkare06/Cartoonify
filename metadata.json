@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Cartoon Generator",
+  "description": "An application that generates cartoon-style images from user text prompts using the Gemini API.",
+  "requestFramePermissions": []
+}
