@@ -44,8 +44,6 @@ This application requires a Google Gemini API key to function.
 
 ### Step 2: Set Up the Project Locally
 
-1.  **Create an `images` folder**: Inside the `public` directory, create a new folder named `images`.
-2.  **Save the snapshots**: Download the two snapshot images provided and place them in the `public/images/` folder you just created. Name them `snapshot-main.png` and `snapshot-result.png`.
 3.  **Clone the repository** (or download and extract the project files into a new folder):
     ```bash
     git clone https://github.com/your-username/cartoon-generator.git
