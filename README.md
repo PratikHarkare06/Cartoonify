@@ -67,17 +67,7 @@ This application requires a Google Gemini API key to function.
 
 1.  **Enter Your API Key & Prompt**: In the running application, paste the key you got from Google AI Studio into the setup field. Then, describe the cartoon you want to create in the text area. You can also click one of the suggestions if you need inspiration!
 
-    <br>
-    <img src="/images/snapshot-main.png" alt="Main UI of the Cartoon Generator" width="700">
-    <br>
-    *(The main interface showing the API key input and prompt area.)*
-
 2.  **Generate, Apply Filters & Share**: Click the **"Generate Cartoon"** button. Once the image appears, you can apply different visual filters, download the final result, or share it.
-
-    <br>
-    <img src="/images/snapshot-result.png" alt="Generated cartoon with filter and action buttons" width="700">
-    <br>
-    *(A generated image with the filter options and Download/Share actions visible.)*
 
 ---
 
